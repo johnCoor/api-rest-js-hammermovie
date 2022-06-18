@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-js-hammermovie",
+  "version": "1.0.0",
+  "description": "Practica de consumo API Rest js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnCoor/api-rest-js-hammermovie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnCoor/api-rest-js-hammermovie/issues"
+  },
+  "homepage": "https://github.com/johnCoor/api-rest-js-hammermovie#readme"
+}
