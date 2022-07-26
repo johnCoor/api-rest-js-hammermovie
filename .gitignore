@@ -104,7 +104,7 @@ dist
 .tern-port
  
 # secret.js(API_KEY)
-src/secret.js
+# src/secret.js
 
 # text
 text
